@@ -1,2 +1,5 @@
-# cicd-pipeline-capstone
-Python Flask CI/CD capstone using GitHub Actions, Tekton, and OpenShift Pipelines.
+# CI/CD Pipeline Capstone
+
+A small Python Flask application for practicing automated linting and unit tests with GitHub Actions, followed by container build and deployment using Tekton and OpenShift Pipelines.
+
+The repository includes a GitHub Actions workflow and Tekton task/pipeline definitions for the capstone.
